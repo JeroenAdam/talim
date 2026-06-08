@@ -1,4 +1,4 @@
-# ta3lim
+# talim
 
 Spring Boot production ready web application with 10 JPA entities and REST API's. Oauth 2.0 + Elasticsearch integration.
 
